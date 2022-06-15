@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T08:17:24.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jyxZ3SnSSxlmpLzUE8mC" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T08:40:12.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="gWtzTQGx-00nNxj_mfWW" version="18.0.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="760" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="bkaFZ_zqSUT6rJlL8M-b-17" value="完成入会" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="210" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bkaFZ_zqSUT6rJlL8M-b-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bkaFZ_zqSUT6rJlL8M-b-19" target="bkaFZ_zqSUT6rJlL8M-b-21">
+        <mxCell id="bkaFZ_zqSUT6rJlL8M-b-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bkaFZ_zqSUT6rJlL8M-b-19" target="bkaFZ_zqSUT6rJlL8M-b-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bkaFZ_zqSUT6rJlL8M-b-19" value="完善资料" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bkaFZ_zqSUT6rJlL8M-b-21" value="是否符合发放奖励" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="112.5" width="70" height="55" as="geometry" />
+          <mxGeometry x="480" y="112.5" width="70" height="55" as="geometry" />
         </mxCell>
         <mxCell id="bkaFZ_zqSUT6rJlL8M-b-23" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="185" y="167.5" width="30" height="20" as="geometry" />
@@ -46,16 +46,13 @@
         <mxCell id="bkaFZ_zqSUT6rJlL8M-b-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bkaFZ_zqSUT6rJlL8M-b-29" target="bkaFZ_zqSUT6rJlL8M-b-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bkaFZ_zqSUT6rJlL8M-b-29" value="方法奖励" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="116.25" width="90" height="47.5" as="geometry" />
+        <mxCell id="bkaFZ_zqSUT6rJlL8M-b-29" value="发放奖励" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="116.25" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="bkaFZ_zqSUT6rJlL8M-b-31" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="85" height="40" as="geometry" />
+          <mxGeometry x="730" y="120" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bkaFZ_zqSUT6rJlL8M-b-33" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="120" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="bkaFZ_zqSUT6rJlL8M-b-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;entryX=0.607;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bkaFZ_zqSUT6rJlL8M-b-31">
+        <mxCell id="bkaFZ_zqSUT6rJlL8M-b-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;entryX=0.607;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bkaFZ_zqSUT6rJlL8M-b-21" target="bkaFZ_zqSUT6rJlL8M-b-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="167.5" as="sourcePoint" />
             <mxPoint x="650" y="230" as="targetPoint" />
@@ -63,6 +60,12 @@
               <mxPoint x="510" y="230" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bkaFZ_zqSUT6rJlL8M-b-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bkaFZ_zqSUT6rJlL8M-b-51" target="bkaFZ_zqSUT6rJlL8M-b-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkaFZ_zqSUT6rJlL8M-b-51" value="hd_join_log&lt;br&gt;插入互动参与记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
