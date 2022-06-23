@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T03:58:27.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="oumShR6_zTMnJJHDnrC1" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T04:02:39.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="p_4nYilZUWglIM9Q4ENe" version="20.0.2" type="github">
   <diagram id="x8knKWqIQl5RkP6iHov5" name="第 1 页">
-    <mxGraphModel dx="1113" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1940" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="lDYMOAmmrBvU-g56APDV-3" value="Bi 后台管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lDYMOAmmrBvU-g56APDV-4" value="web&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="lDYMOAmmrBvU-g56APDV-4" value="web&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry y="90" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lDYMOAmmrBvU-g56APDV-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -82,12 +82,6 @@
         <mxCell id="lDYMOAmmrBvU-g56APDV-33" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;" connectable="0" vertex="1" parent="lDYMOAmmrBvU-g56APDV-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lDYMOAmmrBvU-g56APDV-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="160" as="sourcePoint" />
-            <mxPoint x="680" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lDYMOAmmrBvU-g56APDV-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=5;entryX=0.135;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="lDYMOAmmrBvU-g56APDV-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="530" as="sourcePoint" />
@@ -114,6 +108,18 @@
         </mxCell>
         <mxCell id="lDYMOAmmrBvU-g56APDV-48" value="监控警告&lt;br&gt;DingTalk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDYMOAmmrBvU-g56APDV-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDYMOAmmrBvU-g56APDV-51" value="jwt 鉴权、rage 限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lDYMOAmmrBvU-g56APDV-52" value="网关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDYMOAmmrBvU-g56APDV-53" value="服务|业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="315" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
