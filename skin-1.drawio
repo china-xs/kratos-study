@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T05:42:46.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="haHc1ll6NZql0toZChdx" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T06:37:46.274Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="EsYNo4Bgf4zUmIQQ1v_7" version="20.0.2" type="github">
   <diagram id="x8knKWqIQl5RkP6iHov5" name="第 1 页">
     <mxGraphModel dx="2152" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,16 +121,16 @@
         <mxCell id="lDYMOAmmrBvU-g56APDV-56" value="skin-test-1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="575" y="480" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lDYMOAmmrBvU-g56APDV-57" value="skin-test-1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="lDYMOAmmrBvU-g56APDV-57" value="skin-test-2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="575" y="520" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lDYMOAmmrBvU-g56APDV-58" value="skin-test-1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="lDYMOAmmrBvU-g56APDV-58" value="skin-test-3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="575" y="570" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lDYMOAmmrBvU-g56APDV-59" value="skin-test-1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="lDYMOAmmrBvU-g56APDV-59" value="skin-test-4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="575" y="620" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lDYMOAmmrBvU-g56APDV-60" value="skin-test-1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="lDYMOAmmrBvU-g56APDV-60" value="服务集群" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="575" y="670" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lDYMOAmmrBvU-g56APDV-61" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;运维服务监控&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
